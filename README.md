@@ -1,4 +1,4 @@
-# ---------- Các nhiệm vụ của dự án ----------------------
+# ---------- Các nhiệm vụ của dự án ------------------
 - Dự án sẽ là thực hiện dựa trên datalog từ website tuyển dụng
 - Phân tích yêu cầu của dự án và đưa ra các hướng giải quyết
 - Tìm hiểu về NoSQL(Cassandra)
